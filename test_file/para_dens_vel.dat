@@ -1,0 +1,17 @@
+binz:		2000
+Z_1_2:		0  40
+Type_of_molecule:	2
+start#:		10260
+#ofmolecule:	3346
+#ofatoms_inonemolecule:  3
+1 1 1
+out_of_area:    0
+X_area:         -1       5
+Y_area:         -1       6
+start#:		20298
+#ofmolecule:	3346
+#ofatoms_inonemolecule:  1
+1
+out_of_area:    0
+X_area:         -1       5
+Y_area:         -1       6

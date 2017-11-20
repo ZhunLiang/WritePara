@@ -1,0 +1,13 @@
+#include "ffatomtype.itp"
+#include "b-1T-MoS2.itp"
+#include "b-EMIM.itp"
+#include "b-Bf4.itp"
+
+[ system ]
+1T_MoS2
+
+[ molecules ]
+;name	nr
+TMS	1710
+EMI	3346
+BF4	3346

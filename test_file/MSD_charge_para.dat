@@ -1,0 +1,16 @@
+type:    3
+TMS     6
+1       Mo      1       TMS     Mo       1      0       95.942
+2       Mo      1       TMS     Mo       1      0       95.942
+3       S       1       TMS     S_u      1      0       32.065
+4       S       1       TMS     S_u      1      0       32.065
+5       S       1       TMS     S_l      1      0       32.065
+6       S       1       TMS     S_l      1      0       32.065
+
+EMI     3
+1     IM      1    EMI     IM      1     0.3591       67.07
+2     ET      1    EMI     ET      2     0.2321       29.07
+3     ME      1    EMI     ME      3     0.1888       15.04
+
+BF4      1
+1     BF      1    BF4     BF      1     -0.7800      86.81
